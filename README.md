@@ -39,28 +39,34 @@ By leveraging **unsupervised machine learning (K-Means clustering)**, the tool a
 
 Follow these steps to set up and run the Lead Prioritization AI on your local machine:
 
-1.  **Clone the Repository:** ```bash
+1.  **Clone the Repository:** 
+    ```bash
     git clone <your-repo-url>
     cd <your-repo-name>
     ```
 
-2.  **Create a Virtual Environment (Recommended):** ```bash
+2.  **Create a Virtual Environment (Recommended):** 
+    ```bash
     python -m venv .venv
     ```
 
-3.  **Activate the Virtual Environment:** * **On macOS/Linux:** ```bash
+3.  **Activate the Virtual Environment:** * **On macOS/Linux:** 
+        ```bash
         source .venv/bin/activate
         ```
-    * **On Windows (Command Prompt/PowerShell):** ```bash
+    * **On Windows (Command Prompt/PowerShell):** 
+       ```bash
         .venv\Scripts\activate
         ```
 
-4.  **Install Dependencies:** ```bash
+4.  **Install Dependencies:** 
+    ```bash
     pip install -r requirements.txt
     ```
   
 
-5.  **Run the Streamlit Application:** ```bash
+5.  **Run the Streamlit Application:** 
+    ```bash
     streamlit run app.py
     ```
    
