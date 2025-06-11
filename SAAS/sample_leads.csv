@@ -1,0 +1,32 @@
+company_name,industry,location,employee_count,revenue_estimate,growth_source,website,description,funding_stage
+NexaTech,SaaS,San Francisco,80,5M,GrowJo,www.nexatech.io,AI-powered CRM for SMBs,Series A
+MediLink,HealthTech,New York,200,12M,Apollo,www.medilinkhealth.com,Patient tracking software,Series B
+EduSpark,EdTech,Bengaluru,45,1.2M,Manual,www.eduspark.co,Online learning tools,Seed
+Finverse,FinTech,London,150,10M,GrowJo,www.finverse.co,Real-time transaction analytics,Series A
+CleanVolt,GreenTech,Berlin,30,800K,Manual,www.cleanvolt.org,Solar panel optimization tech,Pre-Seed
+WorkNest,HRTech,Chicago,300,25M,Apollo,www.worknest.com,Employee onboarding automation,Series B
+HealthBridge,HealthTech,Singapore,60,2.5M,GrowJo,www.healthbridge.ai,AI-assisted diagnostics,Series A
+SkillForge,EdTech,Mumbai,100,3M,Apollo,www.skillforge.edu,Skill-based bootcamps,Seed
+AutoOptima,AutoTech,Detroit,250,15M,Manual,www.autooptima.io,Parts supply chain optimization,Series B
+CivicEdge,GovernanceTech,Washington DC,20,600K,Manual,www.civicedge.us,Citizen feedback platforms,Pre-Seed
+PathFindr,Logistics,Dubai,90,6M,Apollo,www.pathfindr.com,Route optimization software,Series A
+TradeZen,FinTech,Hong Kong,110,8M,GrowJo,www.tradezen.io,Forex trading AI assistant,Series A
+BioNext,MedTech,Zurich,40,1.5M,Apollo,www.bionext.ch,Biotech sample analysis automation,Seed
+CodeSilo,SaaS,Seattle,70,4M,GrowJo,www.codesilo.dev,DevOps collaboration suite,Series A
+LegalEase,LegalTech,Toronto,35,950K,Manual,www.legalease.ca,Contract summarization AI,Seed
+AdviSmart,MarketingTech,Los Angeles,180,9M,GrowJo,www.advismart.com,Automated ad targeting tool,Series B
+BrightNest,PropTech,Amsterdam,55,2M,Apollo,www.brightnest.nl,Smart property management tools,Seed
+EduPilot,EdTech,Boston,90,5.2M,Manual,www.edupilots.org,K-12 learning analytics,Series A
+GreenGraph,GreenTech,Stockholm,40,900K,Manual,www.greengraph.eu,Carbon footprint dashboard,Seed
+PulseNet,HealthTech,Austin,150,11M,GrowJo,www.pulsenet.ai,Real-time health alerts,Series B
+TalentGrid,HRTech,Delhi,60,3.2M,Apollo,www.talentgrid.in,Freelancer matching AI,Seed
+LoanStack,FinTech,Mumbai,100,7M,Manual,www.loanstacks.com,Microloan prediction engine,Series A
+MindMate,HealthTech,Sydney,70,4.4M,GrowJo,www.mindmate.au,Mental health chatbot,Series A
+CraftCloud,EcomTech,Bangalore,200,18M,Apollo,www.craftcloud.store,Inventory for handmade retailers,Series B
+RiskIQ,FinTech,New York,90,6M,Apollo,www.riskiq.io,Insurance risk profiling engine,Series A
+CityDash,Logistics,Mumbai,130,9.2M,Manual,www.citydash.in,Urban last-mile delivery tracking,Series B
+HivePay,FinTech,Singapore,80,5.5M,GrowJo,www.hivepay.sg,Wallet + UPI layer for SEA,Series A
+ZenTalent,HRTech,London,50,2.8M,Apollo,www.zentalent.uk,AI for candidate fit scoring,Seed
+Fundora,FinTech,Los Angeles,60,3M,GrowJo,www.fundora.io,Startup fundraising analytics,Seed
+YatraFleet,Logistics,Delhi,170,12M,Apollo,www.yatrafleet.com,Intercity truck logistics,Series B
+QuickShelf,EcomTech,New York,90,6.5M,Manual,www.quickshelf.com,Inventory auto-reorder for SMEs,Series A
